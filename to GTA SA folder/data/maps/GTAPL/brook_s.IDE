@@ -1,0 +1,1011 @@
+#Item Definition File PROPERTY OF GTA PROJECT LIBERTY! DON'T BE A BITCH! DON'T STEAL!
+objs
+6559, ci3d_ksun_01, coney_bs, 299, 0
+6560, ci3e_ksun_01, coney_bs, 299, 0
+6561, ci3b_ksun_01, coney_bs, 299, 0
+6562, ciblkk_ksun_03op, coney_bs, 299, 0
+6563, cishootfreak_01, coney_bs, 299, 0
+6564, bks_seabed05, coney_bs, 299, 0
+6565, bks_seabed06, coney_bs, 299, 0
+6566, bks_seabed04, coney_bs, 299, 0
+6567, bks_seabed03, coney1_bs, 299, 0
+6568, ciparjmp_ks01, coney_bs, 299, 0
+6569, tmp_ci6_7_beach09, coney_bs, 299, 0
+6570, tmp_ci6_7_beach07, coney_bs, 299, 0
+6571, tmp_ci6_7_beach06, coney_bs, 299, 0
+6572, tmp_ci6_7_beach05, coney_bs, 299, 0
+6573, tmp_ci6_7_beach04, coney_bs, 299, 0
+6574, tmp_ci6_7_beach03, coney_bs, 299, 0
+6575, tmp_ci6_7_beach01, coney_bs, 299, 0
+6576, ag_roads_brks03, brooks_roads, 299, 0
+6577, railstrut1_eaxr_01, brooks_rail, 299, 0
+6578, ag_roads_bMMrks02, brooks_roads, 299, 0
+6579, tmp_ci6_7_beach10, coney_bs, 299, 0
+6580, tmp_ci6_7_beach12, coney_bs, 299, 0
+6581, tmp_ci6_7_beach13, coney_bs, 299, 0
+6582, ag_roads_brks07, brooks_roads, 299, 0
+6583, rollprop1_ksun_01, coney_bs, 299, 0
+6584, rolltrak1_ksun_01, coney_bs, 299, 0
+6585, bbrijroad_ks_03, brookbridge, 299, 0
+6586, bbrijsup2_ks_01, brookbridge, 299, 0
+6587, bbrijdetal_ks_02, brookbridge, 299, 0
+6588, bbrijroad_ks_02, brookbridge, 299, 0
+6589, bbrijsup1_ks_01, brookbridge, 299, 0
+6590, tmp_ci6_7_beach02, coney_bs, 299, 0
+6591, ag_roads_brks01, brooks_roads, 299, 0
+6592, ks_big_hole, brooks_roads, 299, 0
+6593, rh1_ksun, brooks_roads, 299, 0
+6594, rh5c_ksun, brooks_roads, 299, 0
+6595, a_rh2_ksun, brooks_roads, 299, 0
+6596, ag_roads_brks00, brooks_roads, 299, 0
+6597, ag_roads_brks06, brooks_roads, 299, 0
+6598, rh4_ksun, brooks_roads, 299, 0
+6599, road22_ksun_01, brooks_roads, 299, 0
+6600, ag_roads_brks05, brooks_roads, 299, 0
+6601, ag_roads_brks04, brooks_roads, 299, 0
+6602, rail06a_ksun_01, brooks_rail, 299, 0
+6603, rt5bank_ksun, rt5_bs, 299, 0
+6604, rail05az_ksun_01, brooks_rail, 299, 0
+6605, tmp_ci6ci7_rks05, coney_bs, 299, 0
+6606, ks_coastwall_01, coastwall_bs, 299, 0
+6607, tmp_ci6ci7_rks02, coney_bs, 299, 0
+6608, rt3_ksun_1, rt3_bs, 299, 0
+6609, rt3_ksun_1_detail, rt3_bs, 299, 0
+6610, rt6a_ksunss, rt6_bs, 299, 0
+6611, rt5det_ksun, rt5_bs, 299, 0
+6612, rt5f_ksun, rt5_bs, 299, 0
+6613, rt5f_ksundetail, rt5_bs, 299, 0
+6614, rt5_ksun, rt5_bs, 299, 0
+6615, rt6a_ksun_detail, rt6_bs, 299, 0
+6616, ci3c_ksun_01, coney_bs, 299, 0
+6617, ks_hovetins_01, rt6_bs, 299, 0
+6618, ci3a_ksun_01, ci3a_bs, 299, 0
+6619, rt3_ksun_2, rt3_bs, 299, 0
+6620, rtblk_ksun_05det, rt3_bs, 299, 0
+6621, rtblk_ksun_05op, rt3_bs, 299, 0
+6622, rt3d_ksun_1, rt3_bs, 299, 0
+6623, rt3_ksun_3, rt3_bs, 299, 0
+6624, ks_coastwall_02, coastwall_bs, 299, 0
+6625, rt1b_ksun, rt1_bs, 299, 0
+6626, rt2b_ksun, rt2_bs, 299, 0
+6627, rail05ax_ksun_01, brooks_rail, 299, 0
+6628, bbrijroad_ks_01, brookbridge, 299, 0
+6629, brookbrijsup_01, brookbridge, 299, 0
+6630, rt2c_ksun, rt2_bs, 299, 0
+6631, rhblk_ksun_05det, rhblk_bs, 299, 0
+6632, rh5b_ksun, rhblk_bs, 299, 0
+6633, rt2a_ksun, rt2_bs, 299, 0
+6634, benblk_ksun_02c, rt2_bs, 299, 0
+6635, benblk_ksun_02op, rt2_bs, 299, 0
+6636, rh6b_ksun, rt6_bs, 299, 0
+6637, benblk_ksun_04det, rt6_bs, 299, 0
+6638, rail09c_ksun_01, brooks_rail, 299, 0
+6639, build269_ksun_01, brooknavyyard, 299, 0
+6640, build36_ksun_01, brooknavyyard, 299, 0
+6641, build56_ksun_01, brooknavyyard, 299, 0
+6642, build56b_ksun_01, brooknavyyard, 299, 0
+6643, rh4i_ksun, brooknavyyard, 299, 0
+6644, build127_ksun_01, brooknavyyard, 299, 0
+6645, rail10a_ksun_01_am, brooks_rail, 299, 0
+6646, rh4b_ksun, brooknavyyard, 299, 0
+6647, build88_ksun_01, brooknavyyard, 299, 0
+6648, build42_ksun_01, brooknavyyard, 299, 0
+6649, build133_ksun_01, brooknavyyard, 299, 0
+6650, rh5y_ksun, rt5_bs, 299, 0
+6651, ks_gantry01, platypus_bs, 299, 0
+6652, rh5z_ksun, brooknavyyard, 299, 0
+6653, ks_pipe_works, brooknavyyard, 299, 0
+6654, refinary1_01, brooknavyyard, 299, 0
+6655, ksb128_ext_01, brooknavyyard, 299, 0
+6656, ksb128glass, brooknavyyard, 299, 0
+6657, build92_ksun_01, brooknavyyard, 299, 0
+6658, build136_ksun_01, brooknavyyard, 299, 0
+6727, tmp_ci6_7_beach08, coney_bs, 299, 0
+6728, tmp_ci6_7_beach11, coney_bs, 299, 0
+6729, tmp_ci6ci7_rks06, coney_bs, 299, 0
+6730, tmp_ci6ci7_rks01, coney_bs, 299, 0
+6731, boat_st_det_01, platypus_bs, 299, 0
+6732, boat_bow_det_03, platypus_bs, 299, 0
+6733, boat_st_det_03, platypus_bs, 299, 0
+6734, boat_st_det_02, platypus_bs, 299, 0
+6735, boat_stern_01, platypus_bs, 299, 0
+6736, ci_bowls01, coney2_bs, 299, 0
+6737, boat_bow_01, platypus_bs, 299, 0
+6738, rt4_she_ksun, rt6_bs, 299, 0
+6739, boat_bow_det_01, platypus_bs, 299, 0
+6740, boat_bow_det_02, platypus_bs, 299, 0
+6741, ci5a_ksun, coney2_bs, 299, 0
+6742, ci5c_ksun_01, coney_bs, 299, 0
+6743, ciblkt_ksun_03, coney_bs, 299, 0
+6744, ci_pier_top, coney2_bs, 299, 0
+6745, ci_pier_mid, coney2_bs, 299, 0
+6746, ci_pier_low, coney2_bs, 299, 0
+6747, wheel_ksun_01, coney_bs, 299, 0
+6748, ciparc_ksxr_02, coney2_bs, 299, 0
+6749, rollsin1_ksun_01, coney_bs, 299, 0
+7687, ci4a_ksun_01, coney_bits, 299, 0
+7688, ci4c_ksun_01, coney_bits, 299, 0
+7689, ci_beach1_xr_, coney_bits, 299, 0
+7690, ci_beach2_un_01, coney_bits, 299, 0
+7691, ci_clsdride2_01, coney_bits, 299, 0
+7692, ci_tempastro_01, coney_bits, 299, 0
+7693, ci_temprail01, coney_bits, 299, 0
+7694, ci4d_ksun_01, coney_bits, 299, 0
+7695, ci4g_ksun_01, coney_bits, 299, 0
+7696, ci5fenceb_ksun, coney_bits, 299, 0
+7697, cibikerid2_ksxr_01, coney_bits, 299, 0
+7698, ciblka_ksun_03b, coney_bits, 299, 0
+7699, ciblka_ksun_03op, coney_bits, 299, 0
+7700, ciblka_ksun_06op, coney_bits, 299, 0
+7701, ciblkb_ksun_03op, coney_bits, 299, 0
+7702, ciblkf_ksun_01, coney_bits, 299, 0
+7703, ciblkg_ksun_tg1, coney_bits, 299, 0
+7704, ciblkh_ksun_01, coney_bits, 299, 0
+7705, ciblkh_ksun_01de, coney_bits, 299, 0
+7706, ciblkk_ksun_03b, coney_bits, 299, 0
+7707, cibreak3_ks_01, coney_bits, 299, 0
+7708, cifount1_ksxr_, coney_bits, 299, 0
+7709, cigc_bushes, coney_bits, 299, 0
+7710, cigregs_ks01, coney_bits, 299, 0
+7711, cigyroc_ks01, coney_bits, 299, 0
+7712, ciinfo1_ksxr_, coney_bits, 299, 0
+7713, ciinfo2_ksxr_, coney_bits, 299, 0
+7714, cijantemp_01, coney_bits, 299, 0
+7715, cilorrya_ksxr_01, coney_bits, 299, 0
+7716, cilorryb_ksxr_01, coney_bits, 299, 0
+7717, cinatsea3_ksxr_01, coney_bits, 299, 0
+7718, ciplumet_ksxr_01, coney_bits, 299, 0
+7719, cipunch_ksxr_01, coney_bits, 299, 0
+7720, rh5a_ksun, coney_bits, 299, 0
+7721, limo_shell, coney_bits, 299, 0
+8363, LODag_roads_brks02, lod1_bs, 1500, 0
+8364, LODag_roads_brks03, lod1_bs, 1500, 0
+8365, LODbbrij4_ks_01, lod1_bs, 1500, 0
+8366, LODbbrijsup1_ks, lod1_bs, 1500, 0
+8367, LODks_coastwall_01, lod1_bs, 1500, 0
+8368, LODks_coastwall_02, lod1_bs, 1500, 0
+8369, LODrail05b_ksunx, lod1_bs, 1500, 0
+8370, LODrhten2_ksxr_14, lod1_bs, 1500, 0
+8371, LODrt2a_ksun01, lod1_bs, 1500, 0
+8372, LODrt2b_ksun_gg, lod1_bs, 1500, 0
+8373, LODrt2c_ksun, lod1_bs, 1500, 0
+8374, LODrt3_ksun_1, lod1_bs, 1500, 0
+8375, LODrt3_ksun_1_det, lod1_bs, 1500, 0
+8376, LODrt3_ksun_2, lod1_bs, 1500, 0
+8377, LODrt3_ksun_3, lod1_bs, 1500, 0
+8378, LODrt4_she_ksun, lod1_bs, 1500, 0
+8379, LODrt5bank_ksun, lod1_bs, 1500, 0
+8380, LODrt5det_ksun, lod1_bs, 1500, 0
+8381, LODrt5f_ksundet, lod1_bs, 1500, 0
+8382, LODrt6a_ksun_det, lod1_bs, 1500, 0
+8383, LODrt6a_ksun2, lod1_bs, 1500, 0
+8384, LODrtblk_ks_03b, lod1_bs, 1500, 0
+8385, LOD_brks_ag01, lod1_bs, 1500, 0
+8386, LOD_brks_ag12, lod1_bs, 1500, 0
+8387, LOD_brks_ag12c, lod1_bs, 1500, 0
+8388, LOD_ks_big_hole, lod1_bs, 1500, 0
+8389, LODag_roads_brks00, lod1_bs, 1500, 0
+8390, LODag_roads_brks01, lod1_bs, 1500, 0
+8391, LOD_bkslimo_int, lod1_bs, 1500, 0
+8392, LOD_p_crane_2, lod1_bs, 1500, 0
+8393, LOD_rh5a2_ksun, lod1_bs, 1500, 0
+8394, LOD_rh5b_ksun, lod1_bs, 1500, 0
+8395, LODag_roads_brks05, lod1_bs, 1500, 0
+8396, LODag_roads_brks06, lod1_bs, 1500, 0
+8397, LODben_ksun_01, lod1_bs, 1500, 0
+8398, LODblk_ksun_04det, lod1_bs, 1500, 0
+8399, LODks_ship, lod1_bs, 1500, 0
+8400, LODks_ship2, lod1_bs, 1500, 0
+8401, LODrail09a_ksun_01, lod1_bs, 1500, 0
+8402, LODrh5c_ksun_keep, lod1_bs, 1500, 0
+8403, LODrh5cksun_crat, lod1_bs, 1500, 0
+8404, LODrh5z_ksun, lod1_bs, 1500, 0
+8405, LODrhblk_ksun5det, lod1_bs, 1500, 0
+8406, LODbuild36_ksun, lod1_bs, 1500, 0
+8407, LODroad22_ksun, lod1_bs, 1500, 0
+8408, LOD_build133_ksun, lod1_bs, 1500, 0
+8409, LODci5d_ksun_01, lod1_bs, 1500, 0
+8410, LODciblka_ks_03, lod1_bs, 1500, 0
+8411, LODciblkt_ksun_03, lod1_bs, 1500, 0
+8412, LODcibreak3_ks_02, lod1_bs, 1500, 0
+8413, LODcigregs_ks01, lod1_bs, 1500, 0
+8414, LODcigyroc_ks01, lod1_bs, 1500, 0
+8415, LODciparjmp_ks01, lod1_bs, 1500, 0
+8416, LODfence02_ksun_01, lod1_bs, 1500, 0
+8417, LODks_njdocks_01, lod1_bs, 1500, 0
+8418, LODld56_ksun_01, lod1_bs, 1500, 0
+8419, LODrail06a_ksun_01, lod1_bs, 1500, 0
+8420, LODrail07b_ksun_01, lod1_bs, 1500, 0
+8421, LODrefinary, lod1_bs, 1500, 0
+8422, LODrh1_ksun, lod1_bs, 1500, 0
+8423, LODrh4_ksun, lod1_bs, 1500, 0
+8424, LODrh4i_ksun01, lod1_bs, 1500, 0
+8425, LODrollprop1_ks, lod1_bs, 1500, 0
+8426, LODrollsin1_ks01, lod1_bs, 1500, 0
+8427, LODrolltrak1_ks, lod1_bs, 1500, 0
+8428, LODwheel_ksun_01, lod1_bs, 1500, 0
+8429, LOD_ciblkf_ksun_01, lod1_bs, 1500, 0
+8430, LOD_ciblkf_ksun_03, lod1_bs, 1500, 0
+8431, LOD_ciblkh_ksun_01, lod1_bs, 1500, 0
+8432, LOD_ciparc_ksxr_02, lod1_bs, 1500, 0
+8433, LOD_cishootfreak_01, lod1_bs, 1500, 0
+8434, LODa_buildbase, lod1_bs, 1500, 0
+8435, LODa_rh2_ksun, lod1_bs, 1500, 0
+8436, LODag_roads_brks04, lod1_bs, 1500, 0
+8437, LODag_roads_brks07, lod1_bs, 1500, 0
+8438, LODbbrij4_ks_02, lod1_bs, 1500, 0
+8439, LODbbrij4_ksun_03, lod1_bs, 1500, 0
+8440, LODbbrijsup2_ks, lod1_bs, 1500, 0
+8441, LODbuild42ksun_01, lod1_bs, 1500, 0
+8442, LODbuild56b_ksun, lod1_bs, 1500, 0
+8443, LODbuild88_ksun_01, lod1_bs, 1500, 0
+8444, LODbuild92_ksun, lod1_bs, 1500, 0
+8445, LODbuild127ksun_01, lod1_bs, 1500, 0
+8446, LODbuild269_ksun_01, lod1_bs, 1500, 0
+8447, LODci_beach2_xr, lod1_bs, 1500, 0
+8448, LODci_bowls01, lod1_bs, 1500, 0
+8449, LODci_clsdride2_02, lod1_bs, 1500, 0
+8450, LODci3a_ksun_01, lod1_bs, 1500, 0
+8451, LODci3b_ksun_01_ck, lod1_bs, 1500, 0
+8452, LODci3c_ksun_01, lod1_bs, 1500, 0
+8453, LODci3d_ksun_01, lod1_bs, 1500, 0
+8454, LODci4c_ksun_01, lod1_bs, 1500, 0
+8455, LODci4d_ksun_01, lod1_bs, 1500, 0
+8456, LODci4g_ksun_01, lod1_bs, 1500, 0
+8457, LODci5a_ksun, lod1_bs, 1500, 0
+8458, LODci5c_ksun_01, lod1_bs, 1500, 0
+8459, LOD_ci_beach1, lod1_bs, 1500, 0
+8460, LODrail05b_ksunz, lod1_bs, 1500, 0
+8461, LODci_pier_01, lod1_bs, 1500, 0
+8462, LODci_pier_02, lod1_bs, 1500, 0
+8463, LODci_pier_03, lod1_bs, 1500, 0
+8464, LOD_ci6_7_beach01, lod1_bs, 1500, 0
+8465, LOD_ci6_7_beach02, lod1_bs, 1500, 0
+8466, LOD_ci6_7_beach03, lod1_bs, 1500, 0
+8467, LOD_ci6_7_beach04, lod1_bs, 1500, 0
+8468, LOD_ci6_7_beach05, lod1_bs, 1500, 0
+8469, LOD_ci6_7_beach06, lod1_bs, 1500, 0
+8470, LOD_ci6_7_beach07, lod1_bs, 1500, 0
+8471, LOD_ci6_7_beach08, lod1_bs, 1500, 0
+8472, LOD_ci6_7_beach09, lod1_bs, 1500, 0
+8473, LOD_ci6_7_beach10, lod1_bs, 1500, 0
+8474, LOD_ci6_7_beach11, lod1_bs, 1500, 0
+8475, LOD_ci6_7_beach12, lod1_bs, 1500, 0
+8476, LOD_ci6_7_beach13, lod1_bs, 1500, 0
+8477, LOD_ci6ci7_rks07, lod1_bs, 1500, 0
+8478, LOD_ci6ci7_rks08, lod1_bs, 1500, 0
+8530, ks_s_rollfence1, coney_bs, 299, 0
+8531, cityres1_ksxr_, coney_bs, 150, 0
+8532, cityres2_ksxr_, coney_bs, 150, 0
+end
+tobj
+7728, rt6_emissive_ksun, brooks_night, 299, 0, 18, 8
+7723, wheel_ksun_01em, brooks_night, 299, 0, 18, 8
+7724, ci3a_ksun_01night, brooks_night, 299, 0, 18, 8
+7725, ci4bemm_ksun_01, brooks_night, 299, 0, 18, 8
+7726, rt5night_ksun, brooks_night, 299, 0, 18, 8
+7727, rt3_emm_ksun_1, brooks_night, 299, 0, 18, 8
+7729, rt1b_emm_ksun, brooks_night, 299, 0, 18, 8
+7730, rh6_emm_ksun, brooks_night, 299, 0, 18, 8
+7731, rhb56_night_ksun, brooks_night, 299, 0, 18, 8
+7732, road22_night_ksun, brooks_night, 299, 0, 18, 8
+7733, rollsin1_ksun_01em, brooks_night, 299, 0, 18, 8
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

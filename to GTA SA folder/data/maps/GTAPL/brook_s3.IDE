@@ -1,0 +1,373 @@
+#Item Definition File PROPERTY OF GTA PROJECT LIBERTY! DON'T BE A BITCH! DON'T STEAL!
+objs
+6659, og_bs3park, og_bs3, 299, 0
+6660, og_hovebeachsign01, brooks3_roads, 299, 0
+6661, og_bs3flyover03, brooks3_roads, 299, 0
+6662, og_newroad_03, brooks3_roads, 299, 0
+6663, og_newroad_05, brooks3_roads, 299, 0
+6664, og_underpass247, 247_bs3, 299, 0
+6665, underpasssign2, brooks3_roads, 299, 0
+6666, og_newroad_04, brooks3_roads, 299, 0
+6667, bs3blk05hole, blk05_bs3, 299, 0
+6668, og_bs3blk05conc02, blk05_bs3, 299, 0
+6669, og_bs3blk05conc01, blk05_bs3, 299, 0
+6670, bs3blk06rfbld03, blk06_bs3, 299, 0
+6671, bs3blk06rfbld02, blk06_bs3, 299, 0
+6672, bs3blk06rfbld01, blk06_bs3, 299, 0
+6673, bs3blk05crane01, blk05_bs3, 299, 0
+6674, bs3blk08detail, blk08_bs3, 299, 0
+6675, bs3blk07st02, station_bs3, 299, 0
+6676, bs3blk07station01, station_bs3, 299, 0
+6677, bs3blk07st03, station_bs3, 299, 0
+6678, bs3parkobj02, og_bs3, 299, 0
+6679, bs3parkobj01, og_bs3, 299, 0
+6680, og_bs3blk08ten, blk08_bs3, 299, 0
+6681, bs3blk06-nbild, blk06_bs3, 299, 0
+6682, bs3blk06block1, blk06_bs3, 299, 0
+6683, bs3blk08grnd, blk08_bs3, 299, 0
+6684, bs3blk06grnd, blk06_bs3, 299, 0
+6685, bs3blk05cncrte, blk05_bs3, 299, 0
+6686, og_bs3blk05, blk05_bs3, 299, 0
+6687, og_underpassroad, brooks3_roads, 299, 0
+6688, og_underpass1, brooks3_roads, 299, 0
+6689, og_bs3park_leaves, og_bs3, 299, 0
+6690, og_bs3flyover02, brooks3_roads, 299, 0
+6691, bs3blk05dtail01, blk05_bs3, 299, 0
+6692, og_bs3blk04a_rail, blk04_bs3, 299, 0
+6693, og_bs3blk04a, blk04_bs3, 299, 0
+6694, og_bs3blk04c, blk04_bs3, 299, 0
+6695, og_bs3blk04detail, blk04_bs3, 299, 0
+6696, og_newroad_02, brooks3_roads, 299, 0
+6697, bs3respraydoor, blk04_bs3, 299, 0
+6698, og_bs3blk04sign, blk04_bs3, 299, 0
+6699, og_bs3blk04b, blk04_bs3, 299, 0
+6700, og_hovebeachsign02, brooks3_roads, 299, 0
+6701, og_stationroad01, brooks3_roads, 299, 0
+6702, og_bs3blk07ground, blk07_bs3, 299, 0
+6703, og_bs3blk07build01, blk07_bs3, 299, 0
+6704, og_bs3blk07build1, blk07_bs3, 299, 0
+6705, og_stationroad02, brooks3_roads, 299, 0
+6706, og_bs3blk08, blk08_bs3, 299, 0
+6707, og_bs3blk08shoe, blk08_bs3, 299, 0
+6708, bs3blk06bldout, blk06_bs3, 299, 0
+6709, bs3blk06rfbld04, blk06_bs3, 299, 0
+6710, og_bs3blk03ten01, blk03_bs3, 299, 0
+6711, og_bs3blk02c, blk02_bs3, 299, 0
+6712, og_bs3blk02a, blk02_bs3, 299, 0
+6713, og_bs3blk02b, blk02_bs3, 299, 0
+6714, og_bs3blk03ten02, blk03_bs3, 299, 0
+6715, og_bs3blk03, blk03_bs3, 299, 0
+6716, bs3missiongardoor, blk03_bs3, 299, 0
+6717, og_bs3blk02stairs, blk02_bs3, 299, 0
+6718, og_bs3blk01b, blk01_bs3, 299, 0
+6719, og_bs3blk01a, blk01_bs3, 299, 0
+6720, blk01_01_floor, blk01_bs3, 299, 0
+6721, og_bs3blk01a2, blk01_bs3, 299, 0
+6722, og_bs3blk01a1, blk01_bs3, 299, 0
+6723, og_newroad_01, brooks3_roads, 299, 0
+6724, og_bs3blk01storegls, blk01_bs3, 299, 0
+6725, og_newroad_06, brooks3_roads, 299, 0
+8479, LODbks3_trees, lod_bs3, 1500, 0
+8480, LODbks3_trees01, lod_bs3, 1500, 0
+8481, LODbks3_trees02, lod_bs3, 1500, 0
+8482, LODbks3_trees03, lod_bs3, 1500, 0
+8483, LODbks3_trees04, lod_bs3, 1500, 0
+8484, LODog_bs3blk0701, lod_bs3, 1500, 0
+8485, LODog_bs3blk0702, lod_bs3, 1500, 0
+8486, LODog_bs3blk0703, lod_bs3, 1500, 0
+8487, LODog_bs3blk0704, lod_bs3, 1500, 0
+8488, LODog_bs3blkbldout, lod_bs3, 1500, 0
+8489, LODog_bs3park, lod_bs3, 1500, 0
+8490, LODog_underpass1, lod_bs3, 1500, 0
+8491, LODtmpslopes2, lod_bs3, 1500, 0
+8492, LODtmpslopes3, lod_bs3, 1500, 0
+8493, LOD_brks_ag09, lod_bs3, 1500, 0
+8494, LOD_brks_ag09b, lod_bs3, 1500, 0
+8495, LOD_newroad_01, lod_bs3, 1500, 0
+8496, LOD_newroad_02, lod_bs3, 1500, 0
+8497, LOD_newroad_03, lod_bs3, 1500, 0
+8498, LOD_newroad_04, lod_bs3, 1500, 0
+8499, LOD_newroad_05, lod_bs3, 1500, 0
+8500, LOD_newroad_06, lod_bs3, 1500, 0
+8501, LOD_stationroad01, lod_bs3, 1500, 0
+8502, LOD_stationroad02, lod_bs3, 1500, 0
+8503, LOD_underpass247, lod_bs3, 1500, 0
+8504, LODbs3blk06_bld01, lod_bs3, 1500, 0
+8505, LODbs3blk06_bld02, lod_bs3, 1500, 0
+8506, LODbs3blk06_bld03, lod_bs3, 1500, 0
+8507, LODbs3blk06_bld04, lod_bs3, 1500, 0
+8508, LODcrane_bottom, lod_bs3, 1500, 0
+8509, LODog_bs3blk02a, lod_bs3, 1500, 0
+8510, LODog_bs3blk02b, lod_bs3, 1500, 0
+8511, LODog_bs3blk02c, lod_bs3, 1500, 0
+8512, LODog_bs3blk03, lod_bs3, 1500, 0
+8513, LODog_bs3blk03ten01, lod_bs3, 1500, 0
+8514, LODog_bs3blk03ten02, lod_bs3, 1500, 0
+8515, LODog_bs3blk04a, lod_bs3, 1500, 0
+8516, LODog_bs3blk04b, lod_bs3, 1500, 0
+8517, LODog_bs3blk04c, lod_bs3, 1500, 0
+8518, LODog_bs3blk04det, lod_bs3, 1500, 0
+8519, LODog_bs3blk04sign, lod_bs3, 1500, 0
+8520, LODog_bs3blk05a, lod_bs3, 1500, 0
+8521, LODog_bs3blk05b, lod_bs3, 1500, 0
+8522, LODog_bs3blk06, lod_bs3, 1500, 0
+8523, LODog_bs3blk08_a, lod_bs3, 1500, 0
+8524, LODog_bs3blk08_b, lod_bs3, 1500, 0
+8525, LODbs3blk02stairs, lod_bs3, 1500, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

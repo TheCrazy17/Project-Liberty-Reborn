@@ -1,0 +1,368 @@
+#Item Definition File PROPERTY OF GTA PROJECT LIBERTY! DON'T BE A BITCH! DON'T STEAL!
+objs
+5002, stat_hilberty01, stat_hilberty01, 299, 0
+5003, nj_libseaflor_04, nj_libseaflor, 299, 0
+5004, nj_lib_fence11, nj_lib_fence, 299, 0
+5005, nj_lib_fence10, nj_lib_fence, 299, 0
+5006, happywall01, nj_libertyterrain, 299, 0
+5007, ag_tree00, ag_tree, 150, 0
+5008, happywall03, nj_libertyterrain, 299, 0
+5009, nj_libseaflor_05, nj_libseaflor, 299, 0
+5010, nj_libseaflor_01, nj_libseaflor, 299, 0
+5011, si_libertypier02, si_libertypier, 299, 0
+5012, nj_lib_fence02, nj_lib_fence, 299, 0
+5013, et_flaglights01, et_flaglights01, 299, 0
+5014, nj_lib_fence01, nj_lib_fence, 299, 0
+5015, happywall00, nj_libertyterrain, 299, 0
+5016, nj_lib_fence09, nj_lib_fence, 299, 0
+5017, nj_libseaflor_03, nj_libseaflor, 299, 0
+5018, nj_libseaflor_02, nj_libseaflor, 299, 0
+5019, nj_lib_fence08, nj_lib_fence, 299, 0
+5020, nj_lib_fence07, nj_lib_fence, 299, 0
+5021, nj_lib_fence06, nj_lib_fence, 299, 0
+5022, nj_lib_fence03, nj_lib_fence, 299, 0
+5023, nj_lib_fence05, nj_lib_fence, 299, 0
+5024, nj_lib_fence04, nj_lib_fence, 299, 0
+5025, happyleafs01, happyleafs, 299, 0
+5026, happywall02, nj_libertyterrain, 299, 0
+5027, nj_li_stoflibbase2, nj_li_base, 299, 0
+5030, nj_libseawall08, nj_libseawall, 299, 0
+5031, nj_libseawall06, nj_libseawall, 299, 0
+5032, nj_libseawall19, nj_libseawall, 299, 0
+5033, nj_liberty01, nj_liberty01, 299, 0
+5034, ag_bigandbushy, bushy, 150, 0
+5037, si_libertypier01, si_libertypier, 299, 0
+5038, si_libertypier03, si_libertypier, 299, 0
+5043, hisland_build01, hisland, 299, 0
+5046, hisland_build12, hisland, 299, 0
+5053, et_libleaf04, happyleafs, 299, 0
+5054, et_libleaf01, happyleafs, 299, 0
+5055, et_libleaf02, happyleafs, 299, 0
+5056, et_libleaf03, happyleafs, 299, 0
+5057, nj_libsearock_01, nj_libseaflor, 299, 0
+5058, nj_libsearock_02, nj_libseaflor, 299, 0
+5059, nj_libsearock_03, nj_libseaflor, 299, 0
+5060, nj_libsearock_04, nj_libseaflor, 299, 0
+5061, nj_libsearock_05, nj_libseaflor, 299, 0
+5066, et_libjetty04, si_libertypier, 299, 0
+5069, welcome_sign, welcome_sign, 299, 0
+5073, hisland_build02, hisland, 299, 0
+5075, et_islandflagpole, et_flaglights01, 299, 0
+5084, hisland_build00, hisland, 299, 0
+5087, hisland_build11, hisland, 299, 0
+5091, nj_libseawall01, nj_libseawall, 299, 0
+5092, nj_libseawall02, nj_libseawall, 299, 0
+5093, nj_libseawall03, nj_libseawall, 299, 0
+5094, nj_libseawall04, nj_libseawall, 299, 0
+5095, nj_libseawall05, nj_libseawall, 299, 0
+5096, nj_libseawall07, nj_libseawall, 299, 0
+5097, nj_libseawall09, nj_libseawall, 299, 0
+5104, nj_li_stoflibbase02, nj_li_base, 299, 0
+5105, nj_li_pedestal01, nj_li_base, 299, 0
+5299, LODnj_li_pedestal01, libertylod, 1500, 0
+5300, LODsi_libertypier01, libertylod, 1500, 0
+5301, LODsi_libertypier02, libertylod, 1500, 0
+5302, LODsi_libertypier03, libertylod, 1500, 0
+5303, LODstat_hilberty, libertylod, 1500, 0
+5304, LODstoflibbase02, libertylod, 1500, 0
+5305, LODstoflibbase2, libertylod, 1500, 0
+5306, statue_staircase, nj_li_base, 299, 0
+5307, statue_bannister, nj_li_base, 299, 0
+5577, LODnj_liberty01, libertylod2, 1500, 0
+6410, nj_libseawall20, nj_libseawall, 299, 0
+6411, nj_libseawall21, nj_libseawall, 299, 0
+6412, nj_libseawall22, nj_libseawall, 299, 0
+6413, happy_bollards, nj_lib_fence, 299, 0
+6414, stat_intheart, nj_lib_fence, 70, 0
+6415, lib_blckhrt, nj_lib_fence, 50, 0
+6416, lib_catwlk01, nj_lib_fence, 50, 0
+6417, LODlibseawall20, libertylod, 1500, 0
+6418, LODlibseawall21, libertylod, 1500, 0
+6419, LODlibseawall22, libertylod, 1500, 0
+6420, LODpywall00, libertylod, 1500, 0
+6421, LODpywall01, libertylod, 1500, 0
+6422, LODpywall02, libertylod, 1500, 0
+6423, LODpywall03, libertylod, 1500, 0
+6424, LODland_build00, libertylod, 1500, 0
+6425, LODland_build01, libertylod, 1500, 0
+6426, LODland_build02, libertylod, 1500, 0
+6427, LODland_build12, libertylod, 1500, 0
+6428, LODlibertypier01, libertylod, 1500, 0
+6429, LODlibertypier05, libertylod, 1500, 0
+6430, LODlibsearock_01, libertylod, 1500, 0
+6431, LODlibsearock_02, libertylod, 1500, 0
+6432, LODlibsearock_03, libertylod, 1500, 0
+6433, LODlibsearock_04, libertylod, 1500, 0
+6434, LODlibsearock_05, libertylod, 1500, 0
+6435, LODlibseawall01, libertylod, 1500, 0
+6436, LODlibseawall02, libertylod, 1500, 0
+6437, LODlibseawall03, libertylod, 1500, 0
+6438, LODlibseawall04, libertylod, 1500, 0
+6439, LODlibseawall05, libertylod, 1500, 0
+6440, LODlibseawall06, libertylod, 1500, 0
+6441, LODlibseawall07, libertylod, 1500, 0
+6442, LODlibseawall08, libertylod, 1500, 0
+6443, LODlibseawall09, libertylod, 1500, 0
+6444, LODlibseawall19, libertylod, 1500, 0
+6445, LODetislandflagpole, libertylod, 1500, 0
+6446, LOD_lib_bush_01, tree_lod, 1500, 0
+6447, LOD_lib_bush_02, tree_lod, 1500, 0
+6448, LOD_lib_bush_03, tree_lod, 1500, 0
+6449, LOD_lib_bush_04, tree_lod, 1500, 0
+6450, LOD_lib_bush_05, tree_lod, 1500, 0
+6451, LOD_lib_bush_06, tree_lod, 1500, 0
+6452, LOD_lib_bush_07, tree_lod, 1500, 0
+6453, LOD_lib_bush_08, tree_lod, 1500, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
