@@ -1,5 +1,18 @@
 #Item Definition File created by MapEditor
 objs
+2500, AM_AP_BBoard02, AM_AP_BillBoard, 150, 0
+2501, AM_AP_BBoard03, AM_AP_BillBoard, 150, 0
+2502, AM_AP_BBoard04, AM_AP_BillBoard, 150, 0
+2503, AM_AP_BBoard05, AM_AP_BillBoard, 150, 0
+2504, AM_AP_BBoard06, AM_AP_BillBoard, 150, 0
+2505, AM_AP_BBoard07, AM_AP_BillBoard, 150, 0
+2506, AM_AP_BBoard08, AM_AP_BillBoard, 150, 0
+2507, AM_AP_BBoard09, AM_AP_BillBoard, 150, 0
+2508, AM_AP_BBoard1, AM_AP_BillBoard, 150, 0
+2509, AM_AP_BBoard10, AM_AP_BillBoard, 150, 0
+2510, AM_AP_BBoard11, AM_AP_BillBoard, 150, 0
+2511, AM_AP_BBoard12, AM_AP_BillBoard, 150, 0
+2512, AM_AP_BBoard13, AM_AP_BillBoard, 150, 0
 7342, ck_ap_lands0, queast_qe, 299, 0
 7343, ap_grnd_blnd_03, queast_qe, 299, 0
 7344, am_ap_srvc_parkol, queast_qe, 299, 0
