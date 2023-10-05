@@ -1,19 +1,19 @@
--create "to GTA SA folder/data/maps/GTAPL/boundings.img" "2"
+-create "Project Liberty/models/boundings.img" "2"
 -importFromDirectory "src/boundings"
 -rebuild
 -close
 
--create "to GTA SA folder/data/maps/GTAPL/east.img" "2"
+-create "Project Liberty/models/east.img" "2"
 -importFromDirectory "src/east"
 -rebuild
 -close
 
--create "to GTA SA folder/data/maps/GTAPL/jersey.img" "2"
+-create "Project Liberty/models/jersey.img" "2"
 -importFromDirectory "src/jersey"
 -rebuild
 -close
 
--create "to GTA SA folder/data/maps/GTAPL/manhat.img" "2"
+-create "Project Liberty/models/manhat.img" "2"
 -importFromDirectory "src/manhat"
 -rebuild
 -close

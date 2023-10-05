@@ -1,0 +1,428 @@
+#Item Definition File created by MapEditor
+objs
+8122, qw2_platform2, platform_qw2, 299, 0
+8123, qw2_triboro2, qw2_roads, 299, 0
+8124, qw2_tribridsup1, qw2_roads, 299, 0
+8125, qw2_triboro04, qw2_roads, 299, 0
+8126, road_qnw2_14, qw2_roads, 299, 0
+8127, qw2_mrgeroad1, qw2_roads, 299, 0
+8128, qw2_corthouse, court_qw2, 299, 0
+8129, qw2_lic7_tower, court_qw2, 299, 0
+8130, qw2_cjblk1_b1, court_qw2, 299, 0
+8131, qw2_hiwaysign2, qw2_roads, 299, 0
+8132, qw2_lic3, lic_qw2, 299, 0
+8133, qw2_lic3glue, lic_qw2, 299, 0
+8134, qw2_astroad20, qw2_roads, 299, 0
+8135, qw2_hiwaysign3, qw2_roads, 299, 0
+8136, qw2_blkcj3_1, lic_qw2, 299, 0
+8137, qw2_xtraroad5, qw2_roads, 299, 0
+8138, road_qnw2_21, qw2_roads, 299, 0
+8139, qw_lic7_hus1, lic_qw2, 299, 0
+8140, qw2_gardoor1, lic_qw2, 299, 0
+8141, newtunnelqw2, lic_qw2, 299, 0
+8142, qw2_roadgraf, lic_qw2, 299, 0
+8143, qw2_lidock1, lic_qw2, 299, 0
+8144, qw2_lic1glue, lic_qw2, 299, 0
+8145, qw2_road1, qw2_roads, 299, 0
+8146, qw2_hiwaysign6, qw2_roads, 299, 0
+8147, qw2_hiwaysign5, qw2_roads, 299, 0
+8151, qw2_gardoor2, lic_qw2, 299, 0
+8152, qw2_astroad25, qw2_roads, 299, 0
+8153, qw2_astroad10, qw2_roads, 299, 0
+8154, qw2_filmstudio, lic_qw2, 299, 0
+8155, qw2_filmglue, lic_qw2, 299, 0
+8156, qw2_hiwaysign4, qw2_roads, 299, 0
+8157, qw2_roadsl, qw2_roads, 299, 0
+8158, qw2_roadxtra1, qw2_roads, 299, 0
+8159, qw_newlicblk2, lic_qw2, 299, 0
+8160, qw2_wudjetty7, coast_qw2, 299, 0
+8161, qw2_gantgraf, lic_qw2, 299, 0
+8162, qw_newlicblk3, lic_qw2, 299, 0
+8163, qw2_sprunksig, lic_qw2, 299, 0
+8164, qw_newlicblk1, lic_qw2, 299, 0
+8165, qw2_astroad24, qw2_roads, 299, 0
+8166, qw2_lic4, lic_qw2, 299, 0
+8167, qw2_lic4glue, lic_qw2, 299, 0
+8168, qw_newlicgraf, lic_qw2, 299, 0
+8169, qw2_xtraroad2, qw2_roads, 299, 0
+8170, qw2_hiwaysign1, qw2_roads, 299, 0
+8171, qw2_lic5_bild1, lic_qw2, 299, 0
+8172, qw2_lic5glue, lic_qw2, 299, 0
+8173, qw2_freeland1, court_qw2, 299, 0
+8174, qw2_freelglue, court_qw2, 299, 0
+8175, road_qnw2_15_1, qw2_roads, 299, 0
+8176, qw2_blkcj2glue, court_qw2, 299, 0
+8177, qw2_track0, brooks_rail, 299, 0
+8178, qw2_track0_d, brooks_rail, 299, 0
+8179, qw2_blkcj2, court_qw2, 299, 0
+8180, qw2_cjblk1_3, court_qw2, 299, 0
+8181, qw2_cjblk1_b2, court_qw2, 299, 0
+8182, road_qnw2_15, qw2_roads, 299, 0
+8183, qw2_freeland2, court_qw2, 299, 0
+8184, qw2_blkcj3_4, court_qw2, 299, 0
+8185, qw2_blkcj3_glu, court_qw2, 299, 0
+8186, qw2_blkcj3_2, court_qw2, 299, 0
+8187, qw2_cj3glue, court_qw2, 299, 0
+8188, qw2_track1, brooks_rail, 299, 0
+8189, qw2_track1_d, brooks_rail, 299, 0
+8190, qw2_freeland3, court_qw2, 299, 0
+8191, qw2_xtraroad4, qw2_roads, 299, 0
+8192, qw2_cj4, court_qw2, 299, 0
+8193, qw2_cj4_2, court_qw2, 299, 0
+8194, qw2_cj4glue, court_qw2, 299, 0
+8195, road_qnw2_22, qw2_roads, 299, 0
+8196, qw2_freeland4, court_qw2, 299, 0
+8197, qw2_queenstun, qw2_roads, 299, 0
+8198, qw2_xtraroad8, qw2_roads, 299, 0
+8199, qw2_cj6, court_qw2, 299, 0
+8200, qw2_track5, brooks_rail, 299, 0
+8201, qw_stationarch1, platform_qw2, 299, 0
+8202, qw2_track5_d, brooks_rail, 299, 0
+8203, qw2_track3, brooks_rail, 299, 0
+8204, qw2_track2, brooks_rail, 299, 0
+8205, qw2_track4, brooks_rail, 299, 0
+8206, qw2_track2_d, brooks_rail, 299, 0
+8207, qw2_track4_d, brooks_rail, 299, 0
+8208, qw2_track3_d, brooks_rail, 299, 0
+8209, qw_stationarch2, platform_qw2, 299, 0
+8210, qw2_cj5, court_qw2, 299, 0
+8211, am_qw2_roadchop5, qw2_roads, 299, 0
+8212, qw2_cj4projects, court_qw2, 299, 0
+8213, qw_lic7_hus2, lic_qw2, 299, 0
+8214, qw2_lic7, lic_qw2, 299, 0
+8215, qw2_lic7glue, lic_qw2, 299, 0
+8216, road_qnw2_27, qw2_roads, 299, 0
+8217, qw2_parkx1, court_qw2, 299, 0
+8218, qw2_track6, brooks_rail, 299, 0
+8219, qw2_track6_d, brooks_rail, 299, 0
+8220, qw2_lic8_drips, court_qw2, 299, 0
+8221, qw2_misshus1, lic_qw2, 299, 0
+8222, qw2_lic8_hus6, lic_qw2, 299, 0
+8223, qw2_lic8, lic_qw2, 299, 0
+8224, qw2_lic8_hus5, lic_qw2, 299, 0
+8225, qw2_roadchop2, qw2_roads, 299, 0
+8226, qw2_irish_house, court_qw2, 299, 0
+8227, qw2_track7, brooks_rail, 299, 0
+8228, qw2_track7_d, brooks_rail, 299, 0
+8229, l_statiowall, brooks_rail, 299, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

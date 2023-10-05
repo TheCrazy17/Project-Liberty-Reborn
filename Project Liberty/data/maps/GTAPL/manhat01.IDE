@@ -1,0 +1,1742 @@
+#Item Definition File PROPERTY OF GTA PROJECT LIBERTY! DON'T BE A BITCH! DON'T STEAL!
+objs
+5472, bp_ftain_mh1, manhat1, 299, 0
+5727, ft_floor01_mh1, ft_mh1, 299, 0
+5728, ht_seawall_mh1, coast_mh1, 299, 0
+5729, ft_sw04_mh1, coast_mh1, 299, 0
+5730, ht_base_mh1, ft_mh1, 299, 0
+5731, ft_smallstep1_mh1, ft_mh1, 299, 0
+5732, ferryt1_mh1, ft_mh1, 299, 0
+5733, croad01_mh1, mh1_roads, 299, 0
+5734, croad08_b_mh1, mh1_roads, 299, 0
+5735, road22_01_mh1, mh1_roads, 299, 0
+5736, 17b_mh1, 17b_mh1, 299, 0
+5737, 17a_pillar_mh1, 17b_mh1, 299, 0
+5738, 17a_mh1, 17b_mh1, 299, 0
+5739, 17a_del_mh1, 17b_mh1, 299, 0
+5740, road17_02_mh1, mh1_roads, 299, 0
+5741, 17_floor_mh1, 17b_mh1, 299, 0
+5742, 17c_mh1, 17b_mh1, 299, 0
+5743, 17c_det_mh1, 17b_mh1, 299, 0
+5744, 17d_mh1, 17b_mh1, 299, 0
+5745, cgfloor_mh1, park_mh1, 299, 0
+5746, 22b_mh1, 22_mh1, 299, 0
+5747, 22b_canopy_mh1, 22_mh1, 299, 0
+5748, 22_01_mh1, 22_mh1, 299, 0
+5749, 22_00_mh1, 22_mh1, 299, 0
+5750, lev3_lob2_lowflrs, goldberg_int, 299, 0
+5751, lev3_lob2_shell, goldberg_int, 299, 0
+5752, lev3_lob2_strrlng, goldberg_int, 299, 0
+5753, ft_sandhole_mh1, ft_mh1, 299, 0
+5754, ft_sandhdecal_mh1, ft_mh1, 299, 0
+5755, ft_grass_mh1, park_mh1, 299, 0
+5756, ft_bigscaff2_mh1, ft_mh1, 299, 0
+5757, one_nyp_gd_mh1, one_nyp_mh1, 299, 0
+5758, one_nyp_1_mh1, one_nyp_mh1, 299, 0
+5759, one_nyp_2_mh1, one_nyp_mh1, 299, 0
+5760, fd_1nyp05_mh1, one_nyp_mh1, 299, 0
+5761, fd_1nyp00_mh1, one_nyp_mh1, 299, 0
+5762, 14e_mh1, 14_mh1, 299, 0
+5763, 14d_canopy_mh1, 14_mh1, 299, 0
+5764, 14d_mh1, 14_mh1, 299, 0
+5765, croad02_mh1, mh1_roads, 299, 0
+5766, 14f_mh1, 14_mh1, 299, 0
+5767, 14f_light_mh1, 14_mh1, 299, 0
+5768, 14d_detail_mh1, 14_mh1, 299, 0
+5769, p17_mh1, p17, 299, 0
+5770, p17_pole09_mh1, p17, 299, 0
+5771, p17_wire10_mh1, p17, 299, 0
+5772, p17_lightl_mh1, p17, 299, 0
+5773, p17_seawall_mh1, coast_mh1, 299, 0
+5774, p17_stand_mx1, p17, 299, 0
+5775, p17_port2_mh1, coast_mh1, 299, 0
+5776, p17_port_mh1, p17, 299, 0
+5777, p17_porthood_mh1, p17, 299, 0
+5778, p17_portrail_mh1, p17, 299, 0
+5779, 20b_mh1, 20_mh1, 299, 0
+5780, 20b_det_mh1, 20_mh1, 299, 0
+5781, 20c_mh1, 20_mh1, 299, 0
+5782, 20c_det_mh1, 20_mh1, 299, 0
+5783, fet_base_mh1, fet_mh1, 299, 0
+5784, fet_stat_mh1, fet_mh1, 299, 0
+5785, fet_standing_mh1, fet_mh1, 299, 0
+5786, fet_cpdecal_mh1, fet_mh1, 299, 0
+5787, fet_cp_mh1, mh1_roads, 299, 0
+5788, fet_bollard_mh1, fet_mh1, 299, 0
+5789, 10b_cnect_mh1, 10_mh1, 299, 0
+5790, 10b_shop_mh1, 10_mh1, 299, 0
+5791, 10b_mh1, 10_mh1, 299, 0
+5792, 10b_entry_mh1, 10_mh1, 299, 0
+5793, road15_01_mh1, mh1_roads, 299, 0
+5794, road15_03_mh1, mh1_roads, 299, 0
+5795, n15b_mh1, n15b, 299, 0
+5796, fet_pave_mh1, fet_mh1, 299, 0
+5797, fet_grass_mh1, park_mh1, 299, 0
+5798, fet_build_det_mh1, fet_mh1, 299, 0
+5799, fet_build_mh1, fet_mh1, 299, 0
+5800, 10d_light_mh1, 10_mh1, 299, 0
+5801, 10d_mh1, 10_mh1, 299, 0
+5802, 10d_cp_mh1, mh1_roads, 299, 0
+5803, 10d_p_mh1, 10_mh1, 299, 0
+5804, 10d_det_mh1, 10_mh1, 299, 0
+5805, 10c_mh1, 10_mh1, 299, 0
+5806, 10b_step_mh1, 10_mh1, 299, 0
+5807, road11_02_mh1, mh1_roads, 299, 0
+5808, road15_04_mh1, mh1_roads, 299, 0
+5809, 15a_mh1, 15_mh1, 299, 0
+5810, road11_04_mh1, mh1_roads, 299, 0
+5811, fet_carstop_mh1, fet_mh1, 299, 0
+5812, fet_grass2_mh1, park_mh1, 299, 0
+5813, 1100_mh1, 11_mh1, 299, 0
+5814, 1101_mh1, 11_mh1, 299, 0
+5815, 1102_mh1, 11_mh1, 299, 0
+5816, 1100_det_mh1, 11_mh1, 299, 0
+5817, 1101_det_mh1, 11_mh1, 299, 0
+5818, road11_01_mh1, mh1_roads, 299, 0
+5819, croad08_a_mh1, mh1_roads, 299, 0
+5820, ht_rbase_mh1, ht_mh1, 299, 0
+5821, ht_mark_mh1, ht_mh1, 299, 0
+5822, ht_mh1, ht_mh1, 299, 0
+5823, ht_detail_mh1, ht_mh1, 299, 0
+5824, fd_1nyp04_mh1, one_nyp_mh1, 299, 0
+5825, road18x_mh1, mh1_roads, 299, 0
+5826, flyover01_mh1, mh1_roads, 299, 0
+5827, bp_ftain2_mh1, pa_mh1, 299, 0
+5828, pa_floor_mh1, pa_mh1, 299, 0
+5829, pa_mh1, pa_mh1, 299, 0
+5830, pa_detail1_mh1, pa_mh1, 299, 0
+5831, pa_detail2_mh1, pa_mh1, 299, 0
+5832, rf_detail2_mh1, rf_mh1, 299, 0
+5833, rf_rail2_mh1, rf_mh1, 299, 0
+5834, new_bp_gd3_mh1, pa_mh1, 299, 0
+5835, tunnel1_mh1, tuunel_mh1, 299, 0
+5836, rf_mh1, rf_mh1, 299, 0
+5837, rf_detail_mh1, rf_mh1, 299, 0
+5838, new_bp_gd2_mh1, pa_mh1, 299, 0
+5839, rf_detail3_mh1, rf_mh1, 299, 0
+5840, rf_rail_mh1, rf_mh1, 299, 0
+5841, 10a_mh1, 10_mh1, 299, 0
+5842, 10a_base_mh1, 10_mh1, 299, 0
+5843, 10a_bar_mh1, 10_mh1, 299, 0
+5844, 10a_cross_mh1, 10_mh1, 299, 0
+5845, 20a_mh1, 20_mh1, 299, 0
+5846, 10_road2_mh1, mh1_roads, 299, 0
+5847, 10_road_mh1, mh1_roads, 299, 0
+5848, bw_17sbase_mh1, 20_mh1, 299, 0
+5849, 21a_detail_mh1, 21_mh1, 299, 0
+5850, 21_road02_mh1, mh1_roads, 299, 0
+5851, 21d_mh1, 21_mh1, 299, 0
+5852, bp_seawalk2_mh1, coast_mh1, 299, 0
+5853, road15_02_mh1, mh1_roads, 299, 0
+5854, 16_alley_mh1, 16_mh1, 299, 0
+5855, 16c_mh1, 16_mh1, 299, 0
+5856, 16c_detail_mh1, 16_mh1, 299, 0
+5857, 16_glue2_mh1, 16_mh1, 299, 0
+5858, 16b_mh1, 16_mh1, 299, 0
+5859, 16b_detail1_mh1, 16_mh1, 299, 0
+5860, 16b_detail2_mh1, 16_mh1, 299, 0
+5861, road16_mh1, mh1_roads, 299, 0
+5862, 16d_mh1, 16_mh1, 299, 0
+5863, 16d_detail_mh1, 16_mh1, 299, 0
+5864, road12_02_mh1, mh1_roads, 299, 0
+5865, road11_03_mh1, mh1_roads, 299, 0
+5866, 12pave01_mh1, mh1_roads, 299, 0
+5867, 12_alley_mh1, 16_mh1, 299, 0
+5868, walla_mh1, walla_mh1, 299, 0
+5869, road6_04_mh1, mh1_roads, 299, 0
+5870, 12_glue2_mh1, 16_mh1, 299, 0
+5871, road12_01_mh1, mh1_roads, 299, 0
+5872, n06a_mh1, n06_mh1, 299, 0
+5873, n06a_det_mh1, n06_mh1, 299, 0
+5874, 6b_01_mh1, n06_mh1, 299, 0
+5875, 2a_01_mh1, 2_mh1, 299, 0
+5876, 2b_mh1, 2_mh1, 299, 0
+5877, 2_alley2_mh1, 2_mh1, 299, 0
+5878, 2c_mh1, 2_mh1, 299, 0
+5879, road1_02_mh1, mh1_roads, 299, 0
+5880, road1_04_mh1, mh1_roads, 299, 0
+5881, ct_gw_mh1, 2_mh1, 299, 0
+5882, gw_sign_mh1, 2_mh1, 299, 0
+5883, 2k_mh1, 2_mh1, 299, 0
+5884, 2k_det_mh1, 2_mh1, 299, 0
+5885, road1_01_mh1, mh1_roads, 299, 0
+5886, sp_corner1_mh1, park_mh1, 299, 0
+5887, sp_corner3_mh1, 2_mh1, 299, 0
+5888, 21b_mh1, 21_mh1, 299, 0
+5889, ft_basedetail_mh1, ft_mh1, 299, 0
+5890, tunnel3_mh1, tuunel_mh1, 299, 0
+5891, 21_alleyway_mh1, 21_mh1, 299, 0
+5892, 21c_mh1, 21_mh1, 299, 0
+5893, 21d_detail_mh1, 21_mh1, 299, 0
+5894, 16a_mh1, 16_mh1, 299, 0
+5895, 16a_detail01_mh1, 16_mh1, 299, 0
+5896, 16a_detail02_mh1, 16_mh1, 299, 0
+5897, 16a_shop_detail_mh1, 16_mh1, 299, 0
+5898, 16e_mh1, 16_mh1, 299, 0
+5899, 16e_detail01_mh1, 16_mh1, 299, 0
+5900, 12e_mh1, 12_mh1, 299, 0
+5901, 12e_detail_mh1, 12_mh1, 299, 0
+5902, 12pave02_mh1, 16_mh1, 299, 0
+5903, 12_alley2_mh1, 16_mh1, 299, 0
+5904, 12b_mh1, 14_mh1, 299, 0
+5905, 06x_mh1, 6_mh1, 299, 0
+5906, ct_toni_mh1, 6_mh1, 299, 0
+5907, road6_01_mh1, mh1_roads, 299, 0
+5908, ct_legion_mh1, 6_mh1, 299, 0
+5909, 2d_mh1, 2d_mh1, 299, 0
+5910, 2_alley_mh1, 16_mh1, 299, 0
+5911, 2f_mh1, 2d_mh1, 299, 0
+5912, road17_01_mh1, mh1_roads, 299, 0
+5913, road6_03_mh1, mh1_roads, 299, 0
+5914, road1_03_mh1, mh1_roads, 299, 0
+5915, 3a_mh1, 3_mh1, 299, 0
+5916, 3a_d_mh1, 3_mh1, 299, 0
+5917, ct_wing_mh1, 3_mh1, 299, 0
+5918, ft_basedetail2_mh1, ft_mh1, 299, 0
+5919, ft_scaff2_mh1, ft_mh1, 299, 0
+5920, ft_cs1_mh1, ft_mh1, 299, 0
+5921, cs_stand_mh1, ft_mh1, 299, 0
+5922, ft_carpark_mh1, mh1_roads, 299, 0
+5923, ft_base_mh1, ft_mh1, 299, 0
+5924, ft_cs2_mh1, ft_mh1, 299, 0
+5925, ft_sand3_mh1, ft_mh1, 299, 0
+5926, ft_bigscaff_mh1, ft_mh1, 299, 0
+5927, nge_mh1, nge_mh1, 299, 0
+5928, nge_det_mh1, nge_mh1, 299, 0
+5929, 3c_mh1, 3_mh1, 299, 0
+5930, 3e_mh1, 3_mh1, 299, 0
+5931, nge_det3_mh1, nge_mh1, 299, 0
+5932, 3d_mh1, 3_mh1, 299, 0
+5933, roadentry_mh1, mh1_roads, 299, 0
+5934, te01_mh1, bb_connect, 299, 0
+5935, 3x_mh1, 3_mh1, 299, 0
+5936, 3_alley_mh1, 3_mh1, 299, 0
+5937, ct8b_mh1, 8_mh1, 299, 0
+5938, ct08_alley_mh1, 8_mh1, 299, 0
+5939, ct8b_detail_mh1, 8_mh1, 299, 0
+5940, ct8_rail1_mh1, 8_mh1, 299, 0
+5941, ct8_mh1, 8_mh1, 299, 0
+5942, ct8_detail1_mh1, 8_mh1, 299, 0
+5943, ct8b_shop_mh1, 8_mh1, 299, 0
+5944, 3f_mh1, 3_mh1, 299, 0
+5945, 3f_det_mh1, 3_mh1, 299, 0
+5946, road2_01_mh1, mh1_roads, 299, 0
+5947, 49_skate_mh1, 49_mh1, 299, 0
+5948, sp_slope_mh1, 49_mh1, 299, 0
+5949, 49_road02_mh1, mh1_roads, 299, 0
+5950, wh_road01_mh1, mh1_roads, 299, 0
+5951, flyover02_mh1, mh1_roads, 299, 0
+5952, bb_connect_mh1, bb_connect, 299, 0
+5953, bb_connect2_mh1, bb_connect, 299, 0
+5954, tower_mh1, bb_connect, 299, 0
+5955, tower_detail_mh1, bb_connect, 299, 0
+5956, 4_mh1, 49_mh1, 299, 256
+5957, 4_base_mh1, 49_mh1, 299, 0
+5958, 4_detail_mh1, 49_mh1, 299, 0
+5959, wh_mh1, 49_mh1, 299, 0
+5960, wh_stair_mh1, 49_mh1, 299, 0
+5961, wh_base_mh1, 49_mh1, 299, 0
+5962, wh_load1_mh1, 49_mh1, 299, 0
+5963, wh_load1_d_mh1, 49_mh1, 299, 0
+5964, 49_road01_mh1, mh1_roads, 299, 0
+5965, wh_load2_mh1, 49_mh1, 299, 0
+5966, wh_load2_d_mh1, 49_mh1, 299, 0
+5967, n13_a_mh1, 13_mh1, 299, 0
+5968, n13_b_mh1, 13_mh1, 299, 0
+5969, 14g_mh1, 14_mh1, 299, 0
+5970, 14a_mh1, 14_mh1, 299, 0
+5971, 14a_detail_mh1, 14_mh1, 299, 0
+5972, 14_alley_mh1, 14_mh1, 299, 0
+5973, 14b_mh1, 14_mh1, 299, 0
+5974, 7a_mh1, 7_mh1, 299, 0
+5975, ct8d_base_mh1, 8_mh1, 299, 0
+5976, ct8d_mh1, 8_mh1, 299, 0
+5977, 7_sitewalk_mh1, 7_mh1, 299, 0
+5978, ct8c_base_mh1, 8_mh1, 299, 0
+5979, 7_site_mh1, 7_mh1, 299, 0
+5980, 7_ground_mh1, 7_mh1, 299, 0
+5981, 14c_mh1, 14_mh1, 299, 0
+5982, 14c_light_mh1, 14_mh1, 299, 0
+5983, road14_01_mh1, mh1_roads, 299, 0
+5984, 49_ball01_mh1, 49_mh1, 299, 0
+5985, 49_ball02_mh1, 49_mh1, 299, 0
+5986, ct8c_shop_mh1, 8_mh1, 299, 0
+5987, ct8c_mh1, 8_mh1, 299, 0
+5988, 49_base_mh1, 49_mh1, 299, 0
+5989, 49a_mh1, 49_mh1, 299, 0
+5990, 49b_canopy_mh1, 49_mh1, 299, 0
+5991, 49b_mh1, 49_mh1, 299, 0
+5992, grass1_mh1, 49_mh1, 299, 0
+5993, wh_road03_mh1, mh1_roads, 299, 0
+5994, bp_seawalk1_mh1, coast_mh1, 299, 0
+5995, 10_road3_mh1, mh1_roads, 299, 0
+5996, hsbc_mh1, hsbc_mh1, 299, 0
+5997, dome_mh1, hsbc_mh1, 299, 0
+5998, road2_02_mh1, mh1_roads, 299, 0
+5999, road2_03_mh1, mh1_roads, 299, 0
+6000, road6_02_mh1, mh1_roads, 299, 0
+6001, road7_01_mh1, mh1_roads, 299, 0
+6002, road7_02_mh1, mh1_roads, 299, 0
+6003, road13_02_mh1, mh1_roads, 299, 0
+6004, road13_03_mh1, mh1_roads, 299, 0
+6005, 49_road04_mh1, mh1_roads, 299, 0
+6006, croad12_mh1, mh1_roads, 299, 0
+6007, road03_01_mh1, mh1_roads, 299, 0
+6008, road08_01_mh1, mh1_roads, 299, 0
+6009, road13_01_mh1, mh1_roads, 299, 0
+6010, croad00_mh1, mh1_roads, 299, 0
+6011, croad06_mh1, mh1_roads, 299, 0
+6013, p17_base_mh1, p17, 299, 0
+6014, ft_wing_mh1, ft_mh1, 299, 0
+6015, ft_sand_mh1, ft_mh1, 299, 0
+6016, ft_cs3_mh1, ft_mh1, 299, 0
+6017, ferryt2_mh1, ft_mh1, 299, 0
+6018, p17_step2_mx1, p17, 299, 0
+6019, bp_00_mh1, pa_mh1, 299, 0
+6020, 10a_step_mh1, 10_mh1, 299, 0
+6028, cityh_gatepost_mx2, park_mh1, 150, 0
+6032, cg_fence_mx1, park_mh1, 150, 0
+6041, treehole_a_mh1, park_mh1, 150, 0
+6048, cs_tube1_mx1, ft_mh1, 299, 0
+6049, cs_tube1_mx02, ft_mh1, 299, 0
+6051, railinga_mx1, park_mh1, 150, 0
+6055, LOD_17sbase_mh1, lod6_mh1, 1500, 0
+6056, LOD_21_alley_mh1, lod6_mh1, 1000, 0
+6057, LOD_21b_mh1, lod6_mh1, 1500, 64
+6058, LOD_21d_mh1, lod6_mh1, 1500, 0
+6059, LOD_22_00_mh1, lod6_mh1, 1500, 0
+6060, LOD_22_01_mh1, lod6_mh1, 1500, 0
+6061, LOD_22b_mh1, lod6_mh1, 1500, 0
+6062, LOD_20A_MH1, lod6_mh1, 1500, 0
+6063, LOD_21_Road02_MH1, lod6_mh1, 1500, 0
+6064, LOD_CRoad00_MH1, lod6_mh1, 1500, 0
+6065, LOD_CRoad06_MH1, lod6_mh1, 1500, 0
+6066, LOD_Road22_01_MH1, lod6_mh1, 1500, 0
+6067, LOD_20C_MH1, lod6_mh1, 1500, 0
+6068, LOD_20B_MH1, lod6_mh1, 1500, 0
+6069, LOD_21C_MH1, lod6_mh1, 1500, 0
+6070, LOD_Road1_02_MH1, lod1_mh1, 1500, 0
+6071, LOD_N06A_MH1, lod1_mh1, 1500, 0
+6072, LOD_3A_MH1, lod1_mh1, 1500, 0
+6073, LOD_6B_01_MH1, lod1_mh1, 1500, 0
+6074, LOD_Road7_01_MH1, lod1_mh1, 1500, 0
+6075, LOD_Road1_01_MH1, lod1_mh1, 1500, 0
+6076, LOD_2B_MH1, lod1_mh1, 1500, 0
+6077, LOD_Wing_MH1, lod1_mh1, 1500, 0
+6078, LOD_Road6_01_MH1, lod1_mh1, 1500, 0
+6079, LOD_Road6_02_MH1, lod1_mh1, 1500, 0
+6080, LOD_2A_MH1, lod1_mh1, 1500, 0
+6081, LOD_2_alley_mh1, lod1_mh1, 1000, 0
+6082, LOD_2_alley2_mh1, lod1_mh1, 1000, 0
+6083, LOD_2c_mh1, lod1_mh1, 1500, 0
+6084, LOD_2d_mh1, lod1_mh1, 1500, 0
+6085, LOD_2f_mh1, lod1_mh1, 1500, 0
+6086, LOD_2k_mh1, lod1_mh1, 1500, 0
+6087, LOD_3_alley_mh1, lod1_mh1, 1500, 0
+6088, LOD_3d_mh1, lod1_mh1, 1500, 0
+6089, LOD_3c_mh1, lod1_mh1, 1500, 0
+6090, LOD_3e_mh1, lod1_mh1, 1500, 0
+6091, LOD_3f_mh1, lod1_mh1, 1500, 0
+6092, LOD_3x_mh1, lod1_mh1, 1500, 0
+6093, LOD_6x_mh1, lod1_mh1, 1500, 0
+6094, LOD_7_ground_mh1, lod1_mh1, 1500, 0
+6095, LOD_7_site_mh1, lod1_mh1, 1500, 0
+6096, LOD_7a_mh1, lod1_mh1, 1500, 0
+6097, LOD_gw_mh1, lod1_mh1, 1500, 0
+6098, LOD_gw_sign_mh1, lod1_mh1, 1500, 0
+6099, LOD_hsbc_mh1, lod1_mh1, 1500, 0
+6100, LOD_legion_mh1, lod1_mh1, 1500, 0
+6101, LOD_nge_mh1, lod1_mh1, 1500, 0
+6102, LOD_road1_03_mh1, lod1_mh1, 1500, 0
+6103, LOD_road1_04_mh1, lod1_mh1, 1500, 0
+6104, LOD_road2_01_mh1, lod1_mh1, 1500, 0
+6105, LOD_road2_02_mh1, lod1_mh1, 1500, 0
+6106, LOD_road2_03_mh1, lod1_mh1, 1500, 0
+6107, LOD_road6_03_mh1, lod1_mh1, 1500, 0
+6108, LOD_road6_04_mh1, lod1_mh1, 1500, 0
+6109, LOD_toni_mh1, lod1_mh1, 1500, 0
+6110, e2_office_sh_d, chinaint_mh1, 299, 0
+6111, e2_office_sh_e, chinaint_mh1, 299, 0
+6112, e2_office_sh_c, chinaint_mh1, 299, 0
+6113, e2_office_stairs02, chinaint_mh1, 299, 0
+6114, e2_office_stairs05, chinaint_mh1, 299, 0
+6115, e2_office_strblck02, chinaint_mh1, 299, 0
+6116, e2_office_sh_b, chinaint_mh1, 299, 0
+6117, e2_office_sh_a, chinaint_mh1, 299, 0
+6118, e2_office_poster03, chinaint_mh1, 299, 0
+6119, va_mh1, va_mh1, 299, 0
+6120, cs_watertank_mx1, mx1_bits, 299, 0
+6121, cs_wood00mx1, mx1_bits, 299, 0
+6122, cs_wood02mx1, mx1_bits, 299, 0
+6123, cs_xref00_mx1, mx1_bits, 299, 0
+6124, cs_xref01_mx1, mx1_bits, 299, 0
+6125, 3_roofb_mh1, mx1_bits, 299, 0
+6126, 3_roofa_mh1, mx1_bits, 299, 0
+6133, billboard03b_mh1, mx1_bits, 299, 0
+6134, billboard03_mh1, mx1_bits, 299, 0
+6208, 22_flag_mx1, mx1_bits, 299, 0
+6218, rf_plantera_mx1, mx1_bits, 299, 0
+6219, rf_planterb_mx1, mx1_bits, 299, 0
+6220, bp_flag_mx1, mx1_bits, 150, 0
+6221, bp_pole_mx1, mx1_bits, 150, 0
+6222, searail01_mx1, mx1_bits, 150, 0
+6225, tunnel2_mh1, tuunel_mh1, 299, 0
+6239, 14_poster_mh1, 0515_props, 299, 0
+6263, glue_grass1_mh1, mx1_bits, 299, 0
+6265, ironfence01_mx1, mx1_bits, 150, 0
+6266, cable01, mx1_bits, 299, 0
+6286, ws_scaff1corna_mxr, mx1_bits, 150, 0
+6287, ws_scaff1cornb_mxr, mx1_bits, 150, 0
+6288, ws_scaff1side_mxr, mx1_bits, 150, 0
+6290, p17_fence01_mx1, p17, 150, 0
+6291, p17_fence00_mx1, p17, 150, 0
+6292, p17_canopy_mx1, mx1_bits, 150, 0
+6295, p17_glass2_mx1, p17, 299, 0
+6297, new_bp_gd4_mh1, pa_mh1, 299, 0
+6298, pa_detail_mh1, pa_mh1, 299, 0
+6299, bp_park2_mh1, pa_mh1, 299, 0
+6300, bank3_front, level4_bank, 60, 0
+6301, lev4_bank3_wood07, level4_bank, 60, 0
+6302, level4_bank3, level4_bank, 60, 0
+6303, lev4_bank3_tills, level4_bank, 60, 0
+6304, lev4_bank_frame, level4_bank, 60, 0
+6305, lev4_bank3_frame, level4_bank, 60, 0
+6306, 21_flag_mx1, mx1_bits, 100, 0
+6307, 21_usflag_mx1, mx1_bits, 100, 0
+6309, banklogo_mh1, hsbc_mh1, 299, 0
+6310, 12_d_mh1, 12a_mh1, 299, 0
+6311, 12_d_detail_mh1, 12a_mh1, 299, 0
+6312, LOD_49ax_mh1, lod2_mh1, 1500, 0
+6313, LOD_49b_mh1, lod2_mh1_2, 1500, 0
+6314, LOD_ct8_alley_mh1, lod2_mh1, 1500, 0
+6315, LOD_ct8_mh1, lod2_mh1, 1500, 0
+6316, LOD_ct8b_mh1, lod2_mh1, 1500, 0
+6317, LOD_ct8b_shop_mh1, lod2_mh1, 1500, 0
+6318, LOD_ct8c_base_mh1, lod2_mh1, 1500, 0
+6319, LOD_ct8c_mh1, lod2_mh1, 1500, 0
+6320, LOD_ct8c_shop_mh1, lod2_mh1, 1000, 0
+6321, LOD_ct8d_base_mh1, lod2_mh1, 1500, 0
+6322, LOD_ct8d_mh1, lod2_mh1, 1500, 0
+6323, LOD_road03_01_mh1, lod2_mh1, 1500, 0
+6324, LOD_road08_01_mh1, lod2_mh1, 1500, 0
+6325, LOD_roadentry_mh1, lod2_mh1, 1500, 0
+6326, LOD_sp_slope_mh1, lod2_mh1, 1500, 0
+6327, LOD_te01_mh1, lod2_mh1, 1500, 0
+6328, LOD_4_base_mh1, lod2_mh1, 1500, 0
+6329, LOD_4_mh1, lod2_mh1, 1500, 0
+6330, LOD_49_ball02_mh1, lod2_mh1, 1000, 0
+6331, LOD_49_base_mh1, lod2_mh1, 1500, 0
+6332, LOD_49_road01_mh1, lod2_mh1, 1500, 0
+6333, LOD_49_skate_mh1, lod2_mh1, 1500, 0
+6334, LOD_flyover02_mh1, lod3_mh1, 1500, 0
+6335, LOD_grass1_mh1, lod3_mh1, 1500, 0
+6336, LOD_p17_base_mh1, lod3_mh1, 1500, 0
+6337, LOD_p17_mh1, lod3_mh1, 1500, 0
+6338, LOD_p17_port_mh1, lod3_mh1, 1500, 0
+6339, LOD_p17_stand_mh1, lod3_mh1, 1500, 0
+6340, LOD_p17_step_mh1, lod3_mh1, 1500, 0
+6341, LOD_p17_sw_mh1, lod3_mh1, 1500, 0
+6342, LOD_p17port2_mh1, lod3_mh1, 1500, 0
+6343, LOD_tower_mh1, lod3_mh1, 1500, 0
+6344, LOD_wh_base_mh1, lod3_mh1, 1500, 0
+6345, LOD_wh_mh1, lod3_mh1, 1500, 0
+6346, LOD_wh_road01_mh1, lod3_mh1, 1500, 0
+6347, LOD_wh_road03_mh1, lod3_mh1, 1500, 0
+6348, LOD_49_road02_mh1, lod3_mh1, 1500, 0
+6349, LOD_49_road04_mh1, lod3_mh1, 1500, 0
+6350, LOD_bb_connect_mh1, lod3_mh1, 1500, 0
+6351, LOD_flyover01_mh1, lod3_mh1, 1500, 0
+6352, LOD_12_d_mh1, lod4_mh1, 1500, 0
+6353, LOD_12b_mh1, lod4_mh1, 1500, 0
+6354, LOD_12e_mh1, lod4_mh1, 1500, 0
+6355, LOD_12pave02_mh1, lod4_mh1, 1500, 0
+6356, LOD_15a_mh1, lod4_mh1, 1500, 0
+6357, LOD_16_alley_mh1, lod4_mh1, 1500, 0
+6358, LOD_16a_mh1, lod4_mh1, 1500, 0
+6359, LOD_16b_mh1, lod4_mh1, 1500, 0
+6360, LOD_16c_mh1, lod4_mh1, 1500, 0
+6361, LOD_16d_mh1, lod4_mh1, 1500, 0
+6362, LOD_1100_mh1, lod4_mh1, 1500, 0
+6363, LOD_1101_mh1, lod4_mh1, 1500, 0
+6364, LOD_1102_mh1, lod4_mh1, 1500, 0
+6365, LOD_n15b_mh1, lod4_mh1, 1500, 0
+6366, LOD_road11_01_mh1, lod4_mh1, 1500, 0
+6367, LOD_road11_02_mh1, lod4_mh1, 1500, 0
+6368, LOD_road11_03_mh1, lod4_mh1, 1500, 0
+6369, LOD_road11_04_mh1, lod4_mh1, 1500, 0
+6370, LOD_road12_01_mh1, lod4_mh1, 1500, 0
+6371, LOD_road12_02_mh1, lod4_mh1, 1500, 0
+6372, LOD_road15_01_mh1, lod4_mh1, 1500, 0
+6373, LOD_road15_02_mh1, lod4_mh1, 1500, 0
+6374, LOD_road15_03_mh1, lod4_mh1, 1500, 0
+6375, LOD_road15_04_mh1, lod4_mh1, 1500, 0
+6376, LOD_road16_mh1, lod4_mh1, 1500, 0
+6377, LOD_walla_mh1, lod4_mh1, 1500, 0
+6378, LOD_z_16e_mh1, lod4_mh1, 1500, 0
+6379, LOD_12_alley_mh1, lod4_mh1, 1500, 0
+6380, LOD_12_alley2_mh1, lod4_mh1, 1500, 0
+6381, LOD_14d_mh1, lod5_mh1, 1500, 0
+6382, LOD_14e_mh1, lod5_mh1, 1500, 0
+6383, LOD_14f_mh1, lod5_mh1, 1500, 0
+6384, LOD_14g_mh1, lod5_mh1, 1500, 0
+6385, LOD_17_floor_mh1, lod5_mh1, 1500, 0
+6386, LOD_17a_mh1, lod5_mh1, 1500, 0
+6387, LOD_17b_mh1, lod5_mh1, 1500, 0
+6388, LOD_17c_mh1, lod5_mh1, 1500, 0
+6389, LOD_17d_mh1, lod5_mh1, 1500, 0
+6390, LOD_croad02_mh1, lod5_mh1, 1500, 0
+6391, LOD_n13_a_mh1, lod5_mh1, 1500, 0
+6392, LOD_n13_b_mh1, lod5_mh1, 1500, 0
+6393, LOD_nyp_1_mh1, lod5_mh1, 1500, 0
+6394, LOD_nyp_2_mh1, lod5_mh1, 1500, 0
+6395, LOD_nyp_gd_mh1, lod5_mh1, 1500, 0
+6396, LOD_road7_02_mh1, lod5_mh1, 1500, 0
+6397, LOD_road13_01_mh1, lod5_mh1, 1500, 0
+6398, LOD_road13_02_mh1, lod5_mh1, 1500, 0
+6399, LOD_road13_03_mh1, lod5_mh1, 1500, 0
+6400, LOD_road14_01_mh1, lod5_mh1, 1500, 0
+6401, LOD_road17_01_mh1, lod5_mh1, 1500, 0
+6402, LOD_road17_02_mh1, lod5_mh1, 1500, 0
+6403, LOD_road18x_mh1, lod5_mh1, 1500, 0
+6404, LOD_1nyp00_mh1, lod5_mh1, 1500, 0
+6405, LOD_14_poster_mh1, lod5_mh1, 1500, 0
+6406, LOD_14a_mh1, lod5_mh1, 1500, 0
+6407, LOD_14alley_mh1, lod5_mh1, 1500, 0
+6408, LOD_14b_mh1, lod5_mh1, 1500, 0
+6409, LOD_14c_mh1, lod5_mh1, 1500, 0
+6454, LOD_10b_mh1, lod7_mh1, 1500, 0
+6455, LOD_10b_shop_mh1, lod7_mh1, 1500, 0
+6456, LOD_10b_step_mh1, lod7_mh1, 1500, 0
+6457, LOD_10c_mh1, lod7_mh1, 1500, 0
+6458, LOD_10d_cp_mh1, lod7_mh1, 1500, 0
+6459, LOD_10d_mh1, lod7_mh1, 1500, 0
+6460, LOD_bp_00_mh1, lod7_mh1, 1500, 0
+6461, LOD_bp_swalk2_mh1, lod7_mh1, 1500, 0
+6462, LOD_fet_base_mh1, lod7_mh1, 1500, 0
+6463, LOD_fet_build_mh1, lod7_mh1, 1500, 0
+6464, LOD_fet_cp_mh1, lod7_mh1, 1500, 0
+6465, LOD_fet_grass_mh1, lod7_mh1, 1500, 0
+6466, LOD_fet_pave_mh1, lod7_mh1, 1500, 0
+6467, LOD_fet_sding_mh1, lod7_mh1, 1500, 0
+6468, LOD_fet_stat_mh1, lod7_mh1, 1500, 0
+6469, LOD_10_road_mh1, lod7_mh1, 1500, 0
+6470, LOD_10_road2_mh1, lod7_mh1, 1500, 0
+6471, LOD_10_road3_mh1, lod7_mh1, 1500, 0
+6472, LOD_10a_base_mh1, lod7_mh1, 1500, 0
+6473, LOD_10a_cross, lod7_mh1, 1500, 0
+6474, LOD_10a_mh1, lod7_mh1, 1500, 0
+6475, LOD_10a_step_mh1, lod7_mh1, 1500, 0
+6476, LOD_10b_cnect_mh1, lod7_mh1, 1500, 0
+6477, LOD_10b_entry_mh1, lod7_mh1, 1500, 0
+6478, LOD_bp_gd3_mh1, lod8_mh1, 1500, 0
+6479, LOD_bp_gd4_mh1, lod8_mh1, 1500, 0
+6480, LOD_bp_park2_mh1, lod8_mh1, 1500, 0
+6481, LOD_bp_swalk1_mh1, lod8_mh1, 1500, 0
+6482, LOD_pa_floor_mh1, lod8_mh1, 1500, 0
+6483, LOD_pa_mh1, lod8_mh1, 1500, 0
+6484, LOD_rf_mh1, lod8_mh1, 1500, 0
+6485, LOD_sp_corner1_mh1, lod8_mh1, 1500, 0
+6486, LOD_tunnel01_mh1, lod8_mh1, 1500, 0
+6487, LOD_tunnel02_mh1, lod8_mh1, 1500, 0
+6488, LOD_bp_ftain_mh1, lod8_mh1, 1500, 0
+6489, LOD_bp_ftain2_mh1, lod8_mh1, 1500, 0
+6490, LOD_bp_gd2_mh1, lod8_mh1, 1500, 0
+6491, LOD_prop_10_mh1, lod10_mh1, 1500, 0
+6492, LOD_prop_10b_mh1, lod10_mh1, 1500, 0
+6493, LOD_croad08_a_mh1, lod10_mh1, 1500, 0
+6494, LOD_ht_mh1, lod10_mh1, 1500, 0
+6495, LOD_croad12_mh1, lod10_mh1, 1500, 0
+6496, LOD_ht_base_mh1, lod10_mh1, 1500, 0
+6497, LOD_ht_rbase_mh1, lod10_mh1, 1500, 0
+6498, LOD_ht_sw_mh1, lod10_mh1, 1500, 0
+6499, LOD_prop_9_1_mh1, lod10_mh1, 1500, 0
+6500, lev4_bank3_dividers, level4_bank, 60, 0
+6501, lev4_bank3_vaultent, level4_bank, 60, 0
+6502, lev4_bank3_stairs01, level4_bank, 60, 0
+6503, lev4_bank3_trim3, level4_bank, 60, 0
+6504, lev4_bank_elec, level4_bank, 60, 0
+6505, bank_cfan_base02, level4_bank, 60, 0
+6519, bank_plants_hall, level4_bank, 60, 0
+6520, bank_plants_lobby, level4_bank, 60, 0
+6522, cj_vault_surround, level4_bank, 60, 0
+6524, level4_bank3_vault, level4_bank, 60, 0
+6525, lev4_bank3_arch08, level4_bank, 60, 0
+6526, lev4_bank_archchnk, level4_bank, 60, 0
+6527, cj_vault_door_dam, level4_bank, 60, 0
+6531, cj_bank_door_r, level4_bank, 299, 0
+6539, LOD_ft_floor01_mh1, lod9_mh1, 1500, 0
+6540, LOD_ft_grass_mh1, lod9_mh1, 1500, 0
+6541, LOD_ft_sandhole_mh1, lod9_mh1, 1500, 0
+6542, LOD_ft_sw04_mh1, lod9_mh1, 1500, 0
+6543, LOD_prop_9_4_mh1, lod9_mh1, 1500, 0
+6544, LOD_prop_9_12_mh1, lod9_mh1, 1500, 0
+6545, LOD_prop_9_13_mh1, lod9_mh1, 1500, 0
+6546, LOD_tunnel03_mh1, lod9_mh1, 1500, 0
+6547, LOD_cgfloor_mh1, lod9_mh1, 1500, 0
+6548, LOD_croad08_b_mh1, lod9_mh1, 1500, 0
+6549, LOD_ferryt1_mh1, lod9_mh1, 1500, 0
+6550, LOD_ferryt2_mh1, lod9_mh1, 1500, 0
+6551, LOD_ft_base_mh1, lod9_mh1, 1500, 0
+6552, LOD_ft_carpark_mh1, lod9_mh1, 1500, 0
+6553, LOD_ft_cs1_mh1, lod9_mh1, 1500, 0
+6554, LOD_ft_cs2_mh1, lod9_mh1, 1500, 0
+6555, LOD_ft_cs3_mh1, lod9_mh1, 1500, 0
+6556, LOD_crane02_mh1, lod9_mh1, 1500, 0
+6557, LOD_crane03_mh1, lod9_mh1, 1500, 0
+6558, LOD_crane01_mh1, lod9_mh1, 1500, 0
+end
+tobj
+6135, 17b_nl_mh1, manhat_night, 1000, 0, 18, 8
+6136, 17a_nl_mh1, manhat_night, 1000, 0, 18, 8
+6137, 17c_nl_mh1, manhat_night, 1000, 0, 18, 8
+6138, 17d_nl_mh1, manhat_night, 1000, 0, 18, 8
+6251, 14c_nl_mh1, manhat_night, 1000, 0, 18, 8
+6252, 49a_nl_mh1, manhat_night, 1000, 0, 18, 8
+6253, 49b_nl_mh1, manhat_night, 1000, 0, 18, 8
+6254, ct8c_nl_mh1, manhat_night, 1000, 0, 18, 8
+6269, 14a_nl_mh1, manhat_night, 1000, 0, 18, 8
+6270, 14b_nl_mh1, manhat_night, 1000, 0, 18, 8
+6271, 14g_nl_mh1, manhat_night, 1000, 0, 18, 8
+6272, ct8d_nl_mh1, manhat_night, 1000, 0, 18, 8
+6273, n13_nl_mh1, manhat_night, 1000, 0, 18, 8
+6274, n13b_nl_mh1, manhat_night, 1000, 0, 18, 8
+6275, 7a_nl_mh1, manhat_night, 1000, 0, 18, 8
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
