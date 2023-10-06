@@ -1,0 +1,102 @@
+#
+# GTAIV Hud - FONTS.DAT
+# This file contains the proportional values for each font used.
+# Please ensure you change the correct values, wrong values will make the modification working improperly.
+#
+
+# amount of fonts to expect:
+[TOTAL_FONTS]
+2
+
+#
+# FONT2.DDS: (GOTHIC / MENU)
+#
+
+# this font id:
+[FONT_ID]
+0
+
+# proportional values:
+[PROP]
+12 13 13 28 16 28 16  8   # 0    ! " £ $ % & '
+17 17 30 28 28  8  9 21   #	8  ( ) * + , - . /
+28 14 28 28 28  0 28 28   #	16 0 1 2 3 4 5 6 7
+28 28 13 13 30 30 30 30   #	24 8 9 : ; < = > ?
+10 26 24 22 25 23 21 25   #	64 - A B C D E F G
+25 18 21 23 21 31 28 28   #	72 H I J K L M N O
+27 27 25 24 25 32 24 32   #	80 P Q R S T U V W
+25 24 22 28 33 33 14 28   #	88 X Y Z & \   i _
+10 12 13 10 12 11 11 13   #	64 ! a b c d e f g
+13  8  8 14  6 19 13 11   #	72 h i j k l m n o
+13 12 11 13  9 14 14 19   #	80 p q r s t u v w
+18 14 13 30 30 37 35 37   #	56 x y z  
+26 26 26 26 34 22 25 25   #	96 À Á Â Ã Æ Ç È É 
+25 25 18 18 18 18 28 28   #	104 Ê Ë Ì Í Î Ï Ò Ó 
+28 28 32 32 32 32 12 12   #	112 Ô Ö Ù Ú Û Ü ß à
+12 12 12 21 10 11 11 11   #	120 á â ã æ ç è é ê
+11  8  8  8  8 11 11 11   #	128 ë ì í î ï ò ó ô
+11 14 14 14 14 28 13 30   #	136 ö ù ú û ü N n ?(upsidedown)
+13 11 13 13 13 13 13 13   #	144 0 1 2 3 4 5 6 7
+13 13 13 11 11 13 13 11   #	152 8 9 : A B C D E
+13 13 15  8 15 15 12 16   #	160 F G H I J K L M
+13 12 13 13 13 13 11 15   #	168 N O P Q R S T U
+13 15 13 13 10 15 15 15   #	176 V W X Y Z À Á Â
+13 13 13 13 13 13 13 13   #	184 Ã Æ Ç È É Ê Ë Ì
+13 13 13 13 13 13 13 13   #	192 Í Î Ï Ò Ó Ô Ö Ù
+13 13 13 13 13 13 13 13   #	200 Ú Û Ü ß Ñ ¿  
+
+# value for unproportional
+[UNPROP]
+27
+
+# special char in subfont:
+[REPLACEMENT_SPACE_CHAR]
+6
+
+#
+# FONT1.DDS: (HELECOND / PRICEDOWN)
+#
+
+# this font id:
+[FONT_ID]
+1
+
+# proportional values:
+[PROP]
+10  8 10 16 15 24 19 12   # 0    ! " £ $ % & '
+ 9  9 21 15  6 11  6  9   # 8  ( ) * + , - . /
+18 10 16 17 16 16 17 15   # 16 0 1 2 3 4 5 6 7
+16 17  7  7 13 14 13 15   # 24 8 9 : ; < = > ?
+10 18 19 21 20 18 17 23   # 32 tmA B C D E F G
+21  8 16 19 16 24 21 22   # 40 H I J K L M N O
+18 23 20 18 16 20 18 26   # 48 P Q R S T U V W
+17 17 17  9  9  9  8 20   # 56 X Y Z       ! _
+ 5 16 18 16 18 17  9 18   # 64 ! a b c d e f g
+17  7  7 16  7 26 17 17   # 72 h i j k l m n o
+18 18 10 15  9 17 14 21   # 80 p q r s t u v w
+14 15 14 19 11 19 13 13   # 88 x y z     $ [ ]
+18 18 18 18 28 21 18 18   # 96 À Á Â Ã Æ Ç È É
+18 18  8  8  8  8 22 22   # 104 Ê Ë Ì Í Î Ï Ò Ó
+22 22 20 20 20 20 18 16   # 112 Ô Ö Ù Ú Û Ü ß à
+16 16 16 28 16 17 17 17   # 120 á â ã æ ç è é ê
+17  7  7  7  7 17 17 17   # 128 ë ì í î ï ò ó ô
+17 17 17 17 17 21 17 15   # 136 ö ù ú û ü Ñ ñ ¿
+19 19 19 19 21 19 19 19   # 144 0 1 2 3 4 5 6 7
+19 19 10 19 19 19 19 19   # 152 8 9 : A B C D E
+16 19 19 10 19 19 15 29   # 160 F G H I J K L M
+19 19 19 19 19 19 21 19   # 168 N O P Q R S T U
+20 32 19 19 19 19 19 19   # 176 V W X Y Z À Á Â
+19 29 19 19 19 19 19 10   # 184 Ã Æ Ç È É Ê Ë Ì
+10  9  9 19 19 19 19 19   # 192 Í Î Ï Ò Ó Ô Ö Ù
+19 19 19 20 19 19 10 10   # 200 Ú Û Ü ß Ñ ¿ ' .
+
+# value for unproportional
+[UNPROP]
+20
+
+# special char in subfont:
+[REPLACEMENT_SPACE_CHAR]
+9
+
+
+# -eof-

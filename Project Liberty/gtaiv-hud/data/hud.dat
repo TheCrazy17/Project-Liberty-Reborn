@@ -1,0 +1,36 @@
+#
+# GTAIV Hud - HUD.DAT
+# This file contains initial display settings for each HUD component.
+# Please ensure you change the correct values, wrong values will make the modification working improperly.
+#
+
+# ----------------------------------------------------------------------------------------------------------
+# -HUD ITEM NAME-           -POSITION-       -SIZE-		
+# ----------------------------------------------------------------------------------------------------------
+HUD_SUBTITLES                0.0  62.0     1.1    2.1 
+HUD_ZONE_NAME              105.5  92.0     1.2    2.05
+HUD_VEHICLE_NAME           105.5 134.5     1.2    2.05
+
+HUD_RADAR_MAP              207.0 165.0    94.0   92.0
+HUD_RADAR_SPRITES           98.0 270.0   217.0  212.0
+
+HUD_WEAPON_ICON            307.0  59.0   215.0  123.0  
+
+HUD_AMMO                   100.0  89.0     0.85   1.7
+HUD_CASH                   100.0  89.0     0.8    1.7   
+HUD_CELLPHONE              337.0 364.0   256.0  512.0
+HUD_CELLPHONE_CLOCK        147.0 304.0     0.6    1.2
+HUD_CELLPHONE_DAY          200.0 303.0     0.6    1.2
+HUD_RADIO_HUD              -10.0  40.0   170.0   96.0
+HUD_CROSSHAIR                0.0   0.0    32.0   32.0
+HUD_CROSSHAIR_FPS            0.0   0.0   128.0  128.0
+HUD_BREATH_BAR             337.0  78.0    12.0  170.0           
+HUD_HELP_MESSAGE           105.0  57.0     0.8    1.7
+HUD_STATS_BOX              125.0 290.0   180.0  335.0 
+HUD_MISSION_TEXT           100.0  60.0     1.5    2.5
+
+HUD_SECOND_WEAPON_ICON     307.0 262.0   215.0  123.0  
+HUD_SECOND_AMMO            100.0 292.0     0.85   1.7
+
+HUD_SECOND_RADAR_SPRITES    82.0 286.0   249.0  244.0
+HUD_SECOND_BREATH_BAR      361.0  78.0    12.0  170.0                
